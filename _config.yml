@@ -5,3 +5,4 @@ description: "Data Engineer | DevOps Enthusiast | Backend & Mobile Developer | P
 github_username: "lagcleaner"
 theme: jekyll-theme-minimal
 show_downloads: false
+include: ["assets/css/style.css"]
