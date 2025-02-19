@@ -1,18 +1,30 @@
+/* 🌙 Dark Mode + Background Image */
 body {
-font-family: "Arial", sans-serif;
-max-width: 800px;
-margin: auto;
+    /* background: url('assets/...') no-repeat center center fixed; */
+    /* background-size: cover; */
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+/* Dark mode container */
+.container {
+background: rgba(0, 0, 0, 0.8);  /* Oscurece el contenido para mejor lectura */
 padding: 20px;
-line-height: 1.6;
-color: #333;
+border-radius: 10px;
 }
 
+/* Estilos de encabezados */
 h1, h2, h3 {
-color: #0057b8;
+color: #1db954; /* Verde neón al estilo cyberpunk */
 }
 
+/* Enlaces personalizados */
 a {
-color: #0073e6;
+color: #00aaff;
 text-decoration: none;
 }
 
