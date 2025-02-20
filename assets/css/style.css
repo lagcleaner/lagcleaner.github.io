@@ -1,7 +1,7 @@
 /* 🌙 Dark Mode + Background Image */
 body {
-    /* background: url('assets/...') no-repeat center center fixed; */
-    /* background-size: cover; */
+    background: rgba(0, 0, 0, 0.8);  /* Oscurece el contenido para mejor lectura */
+    background-size: cover;
     color: #fff;
     font-family: 'Arial', sans-serif;
     max-width: 800px;
