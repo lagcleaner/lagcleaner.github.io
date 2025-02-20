@@ -17,12 +17,12 @@ padding: 20px;
 border-radius: 10px;
 }
 
-/* Estilos de encabezados */
+/* headers */
 h1, h2, h3 {
 color: #1db954; /* Verde neón al estilo cyberpunk */
 }
 
-/* Enlaces personalizados */
+/* links */
 a {
 color: #00aaff;
 text-decoration: none;
