@@ -1,20 +1,9 @@
 ---
 layout: default
-title: 'Leonel Alejandro García López | Portfolio'
+title: '💻 lagcleaner'
 ---
 
-<div align="center">
-
-# 🧠💻 **Leonel Alejandro García López (lagcleaner)**
-
-### Backend & Mobile Development | DevOps | Data Engineer | AI & Data Science
-
-<!--<img src="https://github-readme-stats.vercel.app/api?username=lagcleaner&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />-->
-</div>
-
----
-
-## 🚀 **A Little About Me**
+# 💻 **A Little About Me**
 
 ### 👋 Hey there! I’m a **Computer Science graduate** with experience in:
 
@@ -31,32 +20,32 @@ title: 'Leonel Alejandro García López | Portfolio'
 
 ### 🧠 **Sentilyze - NLP Sentiment Analysis**
 
-🔍 A machine learning-powered sentiment analysis tool using NLP.
-⚙️ _Python, Hugging Face Transformers, Streamlit_
+🔍 A machine learning-powered sentiment analysis tool using NLP.\
+⚙️ _Python, Hugging Face Transformers, Streamlit_\
 🔗 [GitHub Link](https://github.com/lagcleaner/Sentilyze)
 
 ### 🏛️ **CUJAE - University DevOps & Infrastructure**
 
-🔧 Maintained & optimized the university portal, automated infrastructure.
-⚙️ _Docker, Kubernetes, Ansible, CI/CD_
+🔧 Maintained & optimized the university portal, automated infrastructure.\
+⚙️ _Docker, Kubernetes, Ansible, CI/CD_\
 🔗 _(Internal Project - Ask nicely, I might share details! 😆)_
 
 ### 📱 **Katapulk - E-commerce Mobile App**
 
-🛒 Developed and maintained an e-commerce app with Flutter.
-⚙️ _Flutter, Dart, Firebase, REST APIs, Auth_
+🛒 Developed and maintained an e-commerce app with Flutter.\
+⚙️ _Flutter, Dart, Firebase, REST APIs, Auth_\
 🔗 _(Internal Project - Confidential 🤐)_
 
 ### 🔒 **tfproto_client - Secure Data Transfer Library**
 
-🔐 Published a Python library on PyPI for secure data transmission.
-⚙️ _Python, Cryptography, API Security_
+🔐 Published a Python library on PyPI for secure data transmission.\
+⚙️ _Python, Cryptography, API Security_\
 🔗 [GitHub Link](https://github.com/GoDjango-Development/tfprotocol_client_py)
 
 ### 🏥 **Egreso/COVID-19 - Health Data System**
 
-📊 Data collection & analysis system for COVID-19 patient management, featured in a scientific journal.
-⚙️ _Python, FastAPI, PostgreSQL, Pandas, Flutter_
+📊 Data collection & analysis system for COVID-19 patient management, featured in a scientific journal.\
+⚙️ _Python, FastAPI, PostgreSQL, Pandas, Flutter_\
 🔗 [Read More](https://www.revepidemiologia.sld.cu/index.php/hie/article/view/1267)
 
 > 🤖 _Working on more cool stuff… Stay tuned!_
