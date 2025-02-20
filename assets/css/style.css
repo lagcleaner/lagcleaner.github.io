@@ -1,8 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 /* 🌙 Dark Mode + Background Image */
 body {
-    background: rgba(0, 0, 0, 0.8);  /* Oscurece el contenido para mejor lectura */
+    /* background: rgba(0, 0, 0, 0.8);  Oscurece el contenido para mejor lectura */
+    background: url('/assets/images/background.jpeg');
     background-size: cover;
-    color: #fff;
+    color: #f7f2e7dd;
     font-family: 'Arial', sans-serif;
     max-width: 800px;
     margin: auto;
@@ -12,19 +18,19 @@ body {
 
 /* Dark mode container */
 .container {
-background: rgba(0, 0, 0, 0.8);  /* Oscurece el contenido para mejor lectura */
+background: rgba(0, 0, 0, 0.8);
 padding: 20px;
 border-radius: 10px;
 }
 
 /* headers */
 h1, h2, h3 {
-color: #1db954; /* Verde neón al estilo cyberpunk */
+    color: #ffffffe3;
 }
 
 /* links */
 a {
-color: #00aaff;
+color: #5d98f7f0;
 text-decoration: none;
 }
 
