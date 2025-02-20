@@ -27,7 +27,7 @@ I specialize in:\
 
 ---
 
-## 📂 Some Cool Projects I’ve Worked On
+<!-- ## 📂 Some Cool Projects I’ve Worked On
 
 ### 📱 **Katapulk – E-commerce Mobile App**
 
@@ -44,7 +44,7 @@ Developed and optimized cloud infrastructure while implementing automation for s
 Created a **Python library** for encrypted, secure data transmission—because security matters!
 🔗 [PyPI Package](#)
 
----
+--- -->
 
 ## 📜 Certifications & Learning
 
