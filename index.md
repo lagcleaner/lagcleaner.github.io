@@ -68,14 +68,10 @@ title: '💻 lagcleaner'
 
 ## 📜 Certifications & Learning
 
-<!--
-📌 **AWS Certified Cloud Practitioner (In Progress)**
-📌 **Google Data Engineering Specialization (In Progress)**
--->
-
 📌 Certificate of Fundamentals of Machine Learning and Artificial Intelligence - AWS [🔗here](https://drive.google.com/file/d/1xzo7niG1Hx0ZJVKU4UaRG7ytVaDuAYfL/view?usp=drive_link)\
 📌 Certificate of Python - Kaggle [🔗 here](https://www.kaggle.com/learn/certification/lagcleaner/python) \
 📌 Certificate of Pandas - Kaggle [🔗 here](https://www.kaggle.com/learn/certification/lagcleaner/pandas) \
+📌 Certificate of Data Analysis with Python - FreeCodeCamp [🔗 here](https://www.freecodecamp.org/certification/lagcleaner/data-analysis-with-python-v7) \
 📌 Certificate of Attendance #MarineData4OceanHealth 2024 - Copernicus Marine Service [🔗 here](https://drive.google.com/file/d/113OVjLhY3Ou45aV-2b0Pl4Y5E10lF2AV/view?usp=drive_link) (Python, Data Science, R)
 
 I’m always expanding my skills and staying up-to-date with the latest tech trends.
